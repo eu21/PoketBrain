@@ -1,8 +1,9 @@
-# Android Markdown Reader for Obsidian Notes
+# PoketBrain 🧠
 
-A **lightweight (~700KB), open source Android Markdown reader** designed to read **Obsidian notes** directly from plain `.md` files.
+**PoketBrain** is a **lightweight (~700KB), secure, open source Android Markdown reader**
+designed to read **Obsidian notes** directly from plain `.md` files.
 
-No ads. No tracking. Fully offline.
+Your knowledge. Your files. In your pocket.
 
 ---
 
@@ -10,39 +11,67 @@ No ads. No tracking. Fully offline.
 
 - 📖 Read Markdown (`.md`) files
 - 🧠 Optimized for Obsidian-style notes
-- 🚀 Extremely lightweight (~700KB APK)
-- 🔒 100% offline & privacy‑first
+- 🚀 Ultra‑lightweight (~700KB APK)
+- 🔒 Secure, offline‑first & privacy‑focused
 - 🛠️ Open source and auditable
-- 📱 Simple, fast, and minimal UI
+- 📱 Clean, minimal UI
 
 ---
 
-## 📦 Why This App?
+## 🔐 Security & Privacy
 
-Most Markdown or note‑taking apps are bloated, require accounts, or push cloud syncing.  
-This app does **one thing well**: read plain‑text Markdown files on Android.
+PoketBrain is built with **security and trust** as first‑class features:
 
-Built for people who value:
+- ✅ No ads
+- ✅ No trackers
+- ✅ No analytics
+- ✅ Works fully offline
+- ✅ Local files only
+
+Audit the code or compile the app yourself.
+
+---
+
+## 🤔 Why PoketBrain?
+
+Most Markdown or note‑taking apps are bloated, cloud‑dependent, or locked behind accounts.
+
+PoketBrain focuses on:
 - Plain text
-- Local files
-- Minimal software
-- Full control
+- Local storage
+- Fast access
+- Full ownership of your notes
+
+It’s the **mobile companion** to your Obsidian vault.
 
 ---
 
-## 📥 Download
+## 📦 Download
 
-You have two options:
+You can:
 
-- ✅ **Compile from source** (recommended for maximum trust)
-- 📦 **Download prebuilt APK** from the Releases page
+- ✅ **Build from source** (maximum trust)
+- 📦 **Download the prebuilt APK** from Releases
 
-> No ads, no analytics, no permissions beyond what’s required.
+No unnecessary permissions required.
+
+---
+
+## 🤖 Future: PoketBrain Pro (Optional)
+
+PoketBrain will **always have a free, open source core**.
+
+In the future, an **optional paid version (PoketBrain Pro)** may include:
+- AI‑powered search & summaries
+- Context‑aware note insights
+- Privacy‑respecting or on‑device AI features
+
+The core Markdown reader will remain **free, secure, and usable forever**.
 
 ---
 
 ## 🛠️ Build From Source
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
+git clone https://github.com/YOUR_USERNAME/poketbrain.git
+cd poketbrain
