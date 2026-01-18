@@ -59,6 +59,7 @@ It’s the **mobile companion** to your Obsidian vault.
 ---
 
 ## 📦 Download
+https://github.com/eu21/PoketBrain/blob/main/app/release/app-release.apk
 
 You can:
 
