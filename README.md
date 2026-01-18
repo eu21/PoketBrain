@@ -1,34 +1,46 @@
 # PoketBrain 🧠
 
-**PoketBrain** is a **lightweight (~700KB), secure, open source Android Markdown reader**
-designed to read **Obsidian notes** directly from plain `.md` files.
+PoketBrain is an **open source Android Markdown reader with syntax highlighting**,
+designed to read documentation `.md` files securely and offline.
 
-Your knowledge. Your files. In your pocket.
+The project is built **in public**, using a relaxed **vibe‑coding** development style.
 
 ---
 
 ## ✨ Features
 
-- 📖 Read Markdown (`.md`) files
-- 🧠 Optimized for Obsidian-style notes
-- 🚀 Ultra‑lightweight (~700KB APK)
-- 🔒 Secure, offline‑first & privacy‑focused
-- 🛠️ Open source and auditable
-- 📱 Clean, minimal UI
+- 📄 Read Markdown (`.md`) documentation files
+- 🎨 Syntax highlighting
+- 🔒 Offline‑first and privacy‑focused
+- 🚫 No ads, no tracking
+- 🛠️ Open source
 
 ---
 
-## 🔐 Security & Privacy
+## 🧠 Philosophy
 
-PoketBrain is built with **security and trust** as first‑class features:
+PoketBrain is intentionally simple.
+It focuses on:
+- Plain text
+- Local files
+- Minimal UI
+- Developer freedom
 
-- ✅ No ads
-- ✅ No trackers
-- ✅ No analytics
-- ✅ Works fully offline
-- ✅ Local files only
+No accounts, no cloud, no lock‑in.
 
-Audit the code or compile the app yourself.
+---
+
+## 🤝 Contributing
+
+This project welcomes contributions from day one.
+
+You can:
+- Report bugs
+- Suggest features
+- Submit pull requests
+- Improve documentation
+
+There is no strict process—just open an issue or a PR and join the vibe.
 
 ---
 
@@ -57,7 +69,7 @@ No unnecessary permissions required.
 
 ---
 
-## 🤖 Future: PoketBrain Pro (Optional)
+## 🤖 Future: PoketBrain Pro
 
 PoketBrain will **always have a free, open source core**.
 
@@ -73,5 +85,21 @@ The core Markdown reader will remain **free, secure, and usable forever**.
 ## 🛠️ Build From Source
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/poketbrain.git
+git clone https://github.com/eu21/PoketBrain.git
 cd poketbrain
+```
+
+---
+
+## 📺 Development in Public
+
+PoketBrain is developed on YouTube in a **vibe‑coding** format.
+Architectural decisions are explained when relevant.
+
+👉 https://youtu.be/uzFsuRx6kLE
+
+---
+
+## 📄 License
+
+MIT License
